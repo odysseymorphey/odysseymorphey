@@ -5,8 +5,8 @@
 <img src="https://www.svgrepo.com/show/373484/c3.svg" alt="C" width="50"/>
 <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="50">
 <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="Docker" width="50"/>
-<img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL">
-<img src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" alt="ClickHouse" width="50">
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL"/>
+<img src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" alt="ClickHouse" width="50"/>
 <!--
 **odysseymorphey/odysseymorphey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
