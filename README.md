@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Stack
+### Tools
 <p float="left">
     <img src="https://www.svgrepo.com/show/353795/go.svg" alt="Golang" width="50"/>
     <img src="https://www.svgrepo.com/show/373528/cpp3.svg" alt="C++" width="50"/>
@@ -9,6 +9,10 @@
     <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="Docker" width="50"/>
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="50"/>
 </p>
+
+### Contacts
+Email: ramazanov-zalim@mail.ru
+Telegram: @gotrolledcigarette
 <!--
 **odysseymorphey/odysseymorphey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
