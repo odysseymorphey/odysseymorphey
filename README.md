@@ -11,7 +11,7 @@
 </p>
 
 ### Contacts
-Email: ramazanov-zalim@mail.ru
+Email: ramazanov-zalim@mail.ru \
 Telegram: @gotrolledcigarette
 <!--
 **odysseymorphey/odysseymorphey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
